@@ -32,6 +32,11 @@ h2 {
     float: left;
 }
 
+#bio-image {
+    margin: 0;
+    width: 200px;
+}
+
 #main-bio {
     width: 70%;
 }
