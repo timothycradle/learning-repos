@@ -3,8 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Calibri", "Times New Roman", "Sarif";
-    font-size: 18px;
-    line-height: 125%;
+    line-height: 150%;
 }
 
 h1 {color: #efeee7;
@@ -13,7 +12,12 @@ h1 {color: #efeee7;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-size: 30px;
 
+}
+
+h2 {
+    font-size: 28px;
 }
 
 .container {
@@ -23,7 +27,7 @@ h1 {color: #efeee7;
 }
 
 #main-bio,
-#background,
+#contact-info,
 #bio-image {
     float: left;
 }
@@ -32,7 +36,7 @@ h1 {color: #efeee7;
     width: 70%;
 }
 
-#background {
+#contact-info {
     width: 30%;
 }
 
